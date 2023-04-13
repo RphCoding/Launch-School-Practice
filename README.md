@@ -3,6 +3,8 @@
 ## Table of Contents
 -example_file.txt
 
+Hello World!!!
+
 Important steps for git workflow:
 1. initialize repository with git init
 2. Create changes to project fiels
