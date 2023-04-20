@@ -5,6 +5,8 @@
 
 Hello World!!! I hate pharmacy very much.
 
+One more change for luck.
+
 Important steps for git workflow:
 1. initialize repository with git init
 2. Create changes to project fiels
